@@ -11,7 +11,7 @@
 - 여행사용 예약 관리 도구 개발
 
 #### 지원자격
-- Java, Java Script, Python 중 1개 이상 언어에 능숙하신 분
+- Java, Kotlin, JavaScript, TypeScript 중 1개 이상 언어에 능숙하신 분
 - 영어 읽기 가능하신 분
 
 #### 우대사항
@@ -44,10 +44,10 @@
 ## -
 
 ### 이런 것들을 씁니다 
-- Spring Boot, Koa.js, Django, ~~어쩌면 PHP(CI)~~
-- Vue, Nuxt 그리고 jQuery
+- Serverless Framework, SpringBoot, Koa, ~~어쩌면 Django~~
+- Vue, Nuxt ~~그리고 jQuery~~
 - AWS, GCP, CloudFlare
-- WebService, REST API  Client
+- WebService, REST API Client
 
 
 ### 근무환경
