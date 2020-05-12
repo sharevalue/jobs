@@ -44,15 +44,15 @@
 ## -
 
 ### 이런 것들을 씁니다 
-- Serverless Framework, SpringBoot, Koa, ~~어쩌면 Django~~
+- Serverless Framework, ~~SpringBoot~~, Koa, NodeJS
 - Vue, Nuxt ~~그리고 jQuery~~
 - AWS, GCP, CloudFlare
 - WebService, REST API Client
 
 
 ### 근무환경
-- 🚉 서대문역, 충정로역 인근
-- 🕰 탄력근무제 (8-10 시 사이 자유선택) 
+- 🚉 시청역, 을지로입구역 3분거리
+- 🕰 09:30 ~ 18:30
 - 📚 업무관련 도서구입비 지원
 - 🥐 간식 제공
 - 🐛 명절 랜덤 선물
