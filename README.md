@@ -15,10 +15,10 @@
 - 영어 읽기 가능하신 분
 
 #### 우대사항
-- SOA/MSA 개념이 있으신 분
-- AWS 사용 경험이 있으신 분
-- DevOps 조직에서 업무를 경험해 보신 분
-- TDD...
+- SOA/MSA/DDD
+- AWS EB/Lambda
+- DevOps
+- TDD
 
 
 ## 💡 Product 
