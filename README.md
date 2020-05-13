@@ -11,7 +11,7 @@
 - 🗂 여행사용 예약 관리 도구 개발
 
 #### 지원자격
-- Java, Kotlin, JavaScript, TypeScript 중 1개 이상 언어에 능숙하신 분
+- Java, ~~Kotlin,~~ JavaScript, TypeScript 중 1개 이상 언어에 능숙하신 분
 - 영어 읽기 가능하신 분
 
 #### 우대사항
